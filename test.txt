@@ -1,2 +1,5 @@
 this is test file in master
 this is second line test file
+git remote -v
+git remote add origin url
+git remote set-url origin https-url
