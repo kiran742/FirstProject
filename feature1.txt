@@ -1,3 +1,5 @@
 this is feature branch test file
 git cherry-pick <commitid>
+git tag <tagname v1.0>
+git tag -l
 
