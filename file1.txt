@@ -1,4 +1,6 @@
 this is the file1 file for checkout
 ##git checkout <filename>
 ##git checkout .
-
+##git pull origin master
+##git fetch
+##git checkout -t origin/Release
