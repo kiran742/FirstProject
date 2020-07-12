@@ -1,0 +1,4 @@
+this is the file1 file for checkout
+##git checkout <filename>
+##git checkout .
+
